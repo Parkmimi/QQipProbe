@@ -5,7 +5,7 @@
 作者:狂放  
 作者博客:[https://www.iknet.top](https://www.iknet.top)  
 作者地址:[https://www.iknet.top/797.html](https://www.iknet.top/797.html)  
-开源协议:[GPL v3](https://opensource.org/licenses/GPL-3.0)
+开源协议:[GPL v3](https://opensource.org/licenses/GPL-3.0)  
 GitHub项目地址:[https://github.com/kfangf/QQipProbe](https://github.com/kfangf/QQipProbe)  
 版权归作者所有，任何人不得未经授权修改版权，二次开发请遵守开源协议  
 版权所有，侵权必究  
